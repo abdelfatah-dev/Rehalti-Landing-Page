@@ -880,6 +880,7 @@ footer {
       flex-direction: column;
       align-items: center;
       margin: 0px !important;
+      margin-bottom: 80px !important;
       .contact-form {
         width: 70%;
       }
